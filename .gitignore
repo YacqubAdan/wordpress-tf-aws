@@ -1,0 +1,12 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+*.tfplan
+
+# Environment secret files
+*secrets.tfvars
+
+
+
